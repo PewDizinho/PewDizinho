@@ -1,12 +1,12 @@
-## 💜 Olá, meu nome é <strong>PewDizinho!</strong>
+## 💜 Hello! My name is <strong>PewDizinho!</strong>
 
-> Atualmente estou trabalhando com JavaScript(ES5) em pequenos projetos de minecraft, estou cursando Java e JavaScript(ES6).
+> I'm currently working with JavaScript(ES5) on small minecraft projects, I'm studying Java and JavaScript(ES6).
 
-💬 Caso queira entrar em contato, me chame no discord! [PewDizinho#3014](https://cnpcscripts.com/pew).
+💬 If you want to get in touch, contact me on discord! [PewDizinho#3014](https://cnpcscripts.com/pew).
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -15,5 +15,5 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PewDizinho&show_icons=true)
