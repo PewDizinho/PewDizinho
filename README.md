@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{PewDizinho}!</strong>
+## 💜 Olá, meu nome é <strong>PewDizinho!</strong>
 
 > Atualmente estou trabalhando com JavaScript(ES5) em pequenos projetos de minecraft, estou cursando Java e JavaScript(ES6).
 
