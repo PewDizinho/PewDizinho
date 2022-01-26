@@ -1,4 +1,4 @@
-## 💜 Hello! My name is <strong>PewDizinho!</strong>
+## 💜 Hello! My name is <strong>PewDizinho!</strong> But you can call me just <strong>Pew</strong>!
 
 > I'm currently working with JavaScript(ES5) on small minecraft projects, I'm studying Java and JavaScript(ES6).
 
