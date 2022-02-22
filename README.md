@@ -1,10 +1,11 @@
 ## 💜 Hello! My name is <strong>PewDizinho!</strong> But you can call me just <strong>Pew</strong>!
 
 > I'm currently working with JavaScript(ES5) in small minecraft projects, I'm taking a JavaScript(ES6) course on [Udemy](https://www.udemy.com/course/javascript-completo-2018-do-iniciante-ao-mestre/), and when I'm done I plan to take a Java course.
+> 
+> 💬 If you want to get in touch, contact me on discord [PewDizinho#3014](https://cnpcscripts.com/pew) or on twitter [@PewDizinho_](https://twitter.com/PewDizinho_)!.
 
-💬 If you want to get in touch, contact me on discord [PewDizinho#3014](https://cnpcscripts.com/pew) or on twitter [@PewDizinho_](https://twitter.com/PewDizinho_)!.
+<img src="Background.png" min-width="400px" max-width="900px" width="900px" alt="Background">
 
-----
 
 ## 🚀 My Skills
 
@@ -17,3 +18,5 @@
 
 ## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PewDizinho&show_icons=true)
+
+
