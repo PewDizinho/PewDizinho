@@ -4,7 +4,7 @@
 > 
 > 💬 If you want to get in touch, contact me on discord [PewDizinho#3014](https://cnpcscripts.com/pew) or on twitter [@PewDizinho_](https://twitter.com/PewDizinho_)!.
 
-<img src="Background.png" min-width="400px" max-width="900px" width="900px" alt="Background">
+<img src="Background.png" min-width="200px" max-width="700px" width="700px" alt="Background">
 
 
 ## 🚀 My Skills
