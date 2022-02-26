@@ -19,4 +19,6 @@
 ## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PewDizinho&show_icons=true)
 
-
+Wanna support me? Buy me a ko-fi!
+<br>
+<a href='https://ko-fi.com/E1E1BAPMC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
