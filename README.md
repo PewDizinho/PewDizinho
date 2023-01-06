@@ -1,6 +1,6 @@
 ## 💜 Hello! My name is <strong>PewDizinho!</strong> But you can call me just <strong>Pew</strong>!
 
-> I'm currently working with JavaScript(ES5) in small minecraft projects, I'm taking a JavaScript(ES6) course on [Udemy](https://www.udemy.com/course/javascript-completo-2018-do-iniciante-ao-mestre/), and when I'm done I plan to take a Java course.
+> I'm currently working with some minecraft projects with JavaScript, a Discord Bot with NodeJs and some mobile apps with Dart/Flutter!
 > 
 > 💬 If you want to get in touch, contact me on discord [PewDizinho#3014](https://cnpcscripts.com/pew) or on twitter [@PewDizinho_](https://twitter.com/PewDizinho_)!.
 
