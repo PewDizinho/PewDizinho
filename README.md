@@ -9,7 +9,7 @@
 
 ## 🚀 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,flutter,dart,html,css,java,blender,ps,vscode,bots)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,flutter,dart,html,css,java,blender,ps,vscode,bots)
 ---
 
 ## ⭐ Information about my GitHub account
