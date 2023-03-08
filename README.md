@@ -1,7 +1,9 @@
 ## 💜 Hello! My name is <strong>PewDizinho!</strong> But you can call me just <strong>Pew</strong>!
 
 > I'm currently working with some minecraft projects with JavaScript, a Discord Bot with NodeJs and some mobile apps with Dart/Flutter!
-> Taking Analysis and Systems Development classes in [UniOpet](https://www.opet.com.br/#)
+> 
+> And taking Analysis and Systems Development classes in [UniOpet](https://www.opet.com.br/#)
+> 
 > 💬 If you want to get in touch, contact me on discord [PewDizinho#3014](https://cnpcscripts.com/pew) or on twitter [@PewDizinho_](https://twitter.com/PewDizinho_)!.
 
 <img src="Background.png" min-width="200px" max-width="700px" width="700px" alt="Background">
