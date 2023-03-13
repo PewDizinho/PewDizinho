@@ -1,4 +1,4 @@
-## 💜 Hello! My name is <strong>PewDizinho!</strong> But you can call me just <strong>Pew</strong>!
+## 💜 Ello! My name is <strong>PewDizinho!</strong> But you can call me just <strong>Pew</strong>!
 
 > I'm currently working with some minecraft projects with JavaScript, a Discord Bot with NodeJs and some mobile apps with Dart/Flutter!
 > 
