@@ -15,7 +15,13 @@
 ---
 
 ## ⭐ Information about my GitHub account
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PewDizinho&show_icons=true)
+
+<a href="https://github.com/PewDizinho">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=PewDizinho&show_icons=true&theme=dracula&line_height=27" alt="PewDizinho github stats"/>
+</a>
+<a href="https://github.com/PewDizinho">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PewDizinho&theme=dracula&hide_langs_below=1" />
+</a>
 
 Wanna support me? Buy me a Coffee!
 <br>
