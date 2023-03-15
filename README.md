@@ -1,5 +1,5 @@
 ## 💜 Ello! My name is <strong>PewDizinho!</strong> But you can call me just <strong>Pew</strong>!
-
+![](https://komarev.com/ghpvc/?username=PewDizinho&color=006bed)
 > I'm currently working with some minecraft projects with JavaScript, a Discord Bot with NodeJs and some mobile apps with Dart/Flutter!
 > 
 > And taking Analysis and Systems Development classes in [UniOpet](https://www.opet.com.br/#)
