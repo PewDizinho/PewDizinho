@@ -17,12 +17,14 @@
 ## ⭐ Information about my GitHub account
 
 <a href="https://github.com/PewDizinho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=PewDizinho&show_icons=true&theme=dracula&line_height=27" alt="PewDizinho github stats"/>
-</a>
-<a href="https://github.com/PewDizinho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PewDizinho&theme=dracula&hide_langs_below=1" />
-</a>
+ <img src="https://github-readme-stats.vercel.app/api?username=PewDizinho&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PewDizinho&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+ 
+[![PewDizinho's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PewDizinho&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ 
 Wanna support me? Buy me a Coffee!
 <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1BAPMC)
