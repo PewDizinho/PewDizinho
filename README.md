@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=PewDizinho&color=006bed&style=for-the-badge)
 > I'm currently working with some minecraft projects with JavaScript, a Discord Bot with NodeJs and some mobile apps with Dart/Flutter!
 > 
-> And taking Analysis and Systems Development classes in [UniOpet](https://www.opet.com.br/#)
+> And taking Analysis and Systems Development classes in [Tuiti](https://www.tuiti.com.br/#)
 > 
 > 💬 If you want to get in touch, contact me on discord [PewDizinho#3014](https://cnpcscripts.com/pew) or on twitter [@PewDizinho_](https://twitter.com/PewDizinho_)! You can also look more about me in my [website](https://pewdizinho.github.io/).
 
