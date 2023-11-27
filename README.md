@@ -4,7 +4,7 @@
 > 
 > And taking Analysis and Systems Development classes in [Tuiti](https://tuiuti.edu.br/)
 > 
-> 💬 If you want to get in touch, contact me on discord [PewDizinho#3014](https://cnpcscripts.com/pew) or on twitter [@PewDizinho_](https://twitter.com/PewDizinho_)! You can also look more about me in my [website](https://pewdizinho.github.io/).
+> 💬 If you want to get in touch, contact me on discord [PewDizinho#3014](https://cnpcscripts.com/pew) or on twitter [@PewDizinho_](https://twitter.com/PewDizinho_)! You can also see more about me in my [website](https://pewdizinho.github.io/).
 
 <img src="Background.png" min-width="200px" max-width="700px" width="700px" alt="Background">
 
