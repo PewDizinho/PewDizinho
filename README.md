@@ -4,6 +4,8 @@
 
 > 💬 Feel free to reach out to me on Discord: **PewDizinho#3014**, Twitter: [@PewDizinho](https://x.com/PewDizinho), or check out more about me on my [website](https://pewdizinho.com/).
 
+<img src="Background.png" min-width="200px" max-width="700px" width="700px" alt="Background">
+
 ---
 
 ## 🚀 My Skills  
