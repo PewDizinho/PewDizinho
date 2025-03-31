@@ -22,6 +22,10 @@
 - **Linux (Arch, Debian, Ubuntu, Kali, Mint)**  
 - **Git/GitHub**
 
+### Languages 
+- English B2
+- Brazilian Portugues Native
+
 ### Others  
 - Basic Photoshop and Blender  
 
@@ -57,6 +61,6 @@ Check out some of my projects:
 
 ## 🌎 Português  
 
-Se você prefere ler sobre mim em português, clique [aqui]().  
+Se você prefere ler sobre mim em português, clique [aqui](https://github.com/PewDizinho/PewDizinho/blob/main/README-br.md).  
 
 ---
