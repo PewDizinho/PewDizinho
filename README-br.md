@@ -24,7 +24,7 @@
 
 ### Linguagens 
 - Português Nativo
-- Inglês B3
+- Inglês B2
 
 ### Outros  
 - Photoshop e Blender básico  
