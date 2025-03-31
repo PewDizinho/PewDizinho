@@ -62,6 +62,6 @@ Confira alguns dos meus projetos:
 
 ## 🌎 English  
 
-If you prefer to read about me in English, click [here](README_en.md).  
+If you prefer to read about me in English, click [here](https://github.com/PewDizinho/PewDizinho/blob/main/README.md).  
 
 ---
