@@ -41,7 +41,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PewDizinho&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Linguagens Mais Usadas" width=355px/>
 </a>
 
-[![Gráfico de atividades do GitHub de PewDizinho](https://github-readme-activity-graph.cyclic.app/graph?username=PewDizinho&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
