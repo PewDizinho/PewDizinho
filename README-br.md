@@ -46,7 +46,7 @@
 
 ## 🌐 Quer me apoiar?  
 
-Se quiser apoiar meu trabalho, sinta-se à vontade para me comprar um café!  
+Se quiser apoiar meu trabalho, sinta-se à vontade para me comprar um coffe!  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1BAPMC)  
 
 ---
