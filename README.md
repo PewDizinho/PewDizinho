@@ -2,7 +2,7 @@
 
 > I'm a developer passionate about creating innovative solutions for challenging problems, whether it's building Discord bots, developing mobile apps with Flutter, working on web development projects, or even crafting unique solutions for Minecraft. Currently, I'm studying **Systems Analysis and Development** at [Tuiuti University](https://tuiuti.edu.br/) while expanding my knowledge through courses and personal projects.
 
-> 💬 Feel free to reach out to me on Discord: **PewDizinho#3014**, Twitter: [@PewDizinho](https://x.com/PewDizinho), or check out more about me on my [website](https://pewdizinho.com/).
+> 💬 Feel free to reach out to me on Discord: **PewDizinho#3014**, Twitter: [@PewDizinho](https://x.com/PewDizinho), or check out more about me on my [website](https://dev.pewdizinho.com/portfolio/).
 
 <img src="Background.png" min-width="200px" max-width="700px" width="700px" alt="Background">
 
