@@ -9,6 +9,7 @@ I also study **Systems Analysis and Development** at [Tuiuti University](https:/
 > ⚡ Discord: `PewDizinho#3014`  
 > 🐦 Twitter: [@PewDizinho](https://x.com/PewDizinho)  
 > 🌐 Portfolio: [dev.pewdizinho.com](https://dev.pewdizinho.com/portfolio/)
+> 📧 Email: paulo.konopka@pewdizinho.com
 
 <img src="Background.png" width="700px" alt="Retro Pixel Art background with PEW logo" />
 
