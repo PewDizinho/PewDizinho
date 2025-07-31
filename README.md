@@ -1,9 +1,9 @@
-# 💜 Hey, I’m **Pew** — but some know me as Paulo.
+# 💜 Hey, I’m **Pew** - but some know me as Paulo.
 
 I'm a full-stack developer and systems architect building **practical**, **automated**, and **accessible** solutions for real problems.  
 From Discord bots to AI-based support tools, from Flutter apps to system dashboards, I like to work where the duct tape ends and the real system begins.
 
-Currently leading **[Pew’s Cavern](https://github.com/Pews-Cavern)** — a development company focused on efficiency, accessibility and clever solutions for teams and businesses.  
+Currently leading **[Pew’s Cavern](https://github.com/Pews-Cavern)** - a development company focused on efficiency, accessibility and clever solutions for teams and businesses.  
 I also study **Systems Analysis and Development** at [Tuiuti University](https://tuiuti.edu.br/), while constantly prototyping ideas, launching experiments and helping people build things that work.
 
 > ⚡ **Discord**: `PewDizinho#3014`  
