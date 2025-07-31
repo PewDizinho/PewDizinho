@@ -6,10 +6,11 @@ From Discord bots to AI-based support tools, from Flutter apps to system dashboa
 Currently leading **[Pew’s Cavern](https://github.com/Pews-Cavern)** — a development company focused on efficiency, accessibility and clever solutions for teams and businesses.  
 I also study **Systems Analysis and Development** at [Tuiuti University](https://tuiuti.edu.br/), while constantly prototyping ideas, launching experiments and helping people build things that work.
 
-> ⚡ Discord: `PewDizinho#3014`  
-> 🐦 Twitter: [@PewDizinho](https://x.com/PewDizinho)  
-> 🌐 Portfolio: [dev.pewdizinho.com](https://dev.pewdizinho.com/portfolio/)
-> 📧 Email: paulo.konopka@pewdizinho.com
+> ⚡ **Discord**: `PewDizinho#3014`  
+> 🐦 **Twitter**: [@PewDizinho](https://x.com/PewDizinho)  
+> 🌐 **Portfólio**: [dev.pewdizinho.com](https://dev.pewdizinho.com/portfolio/)  
+> 📧 **Email**: [paulo.konopka@pewdizinho.com](mailto:paulo.konopka@pewdizinho.com)
+
 
 <img src="Background.png" width="700px" alt="Retro Pixel Art background with PEW logo" />
 
