@@ -1,66 +1,80 @@
-# 💜 Hello! My name is **Paulo**, but you can call me by my pseudo name **Pew**!
+# 💜 Hey, I’m **Pew** — but some know me as Paulo.
 
-> I'm a developer passionate about creating innovative solutions for challenging problems, whether it's building Discord bots, developing mobile apps with Flutter, working on web development projects, or even crafting unique solutions for Minecraft. Currently, I'm studying **Systems Analysis and Development** at [Tuiuti University](https://tuiuti.edu.br/) while expanding my knowledge through courses and personal projects.
+I'm a full-stack developer and systems architect building **practical**, **automated**, and **accessible** solutions for real problems.  
+From Discord bots to AI-based support tools, from Flutter apps to system dashboards, I like to work where the duct tape ends and the real system begins.
 
-> 💬 Feel free to reach out to me on Discord: **PewDizinho#3014**, Twitter: [@PewDizinho](https://x.com/PewDizinho), or check out more about me on my [website](https://dev.pewdizinho.com/portfolio/).
+Currently leading **[Pew’s Cavern](https://github.com/Pews-Cavern)** — a development company focused on efficiency, accessibility and clever solutions for teams and businesses.  
+I also study **Systems Analysis and Development** at [Tuiuti University](https://tuiuti.edu.br/), while constantly prototyping ideas, launching experiments and helping people build things that work.
 
-<img src="Background.png" min-width="200px" max-width="700px" width="700px" alt="Background">
+> ⚡ Discord: `PewDizinho#3014`  
+> 🐦 Twitter: [@PewDizinho](https://x.com/PewDizinho)  
+> 🌐 Portfolio: [dev.pewdizinho.com](https://dev.pewdizinho.com/portfolio/)
+
+<img src="Background.png" width="700px" alt="Retro Pixel Art background with PEW logo" />
 
 ---
 
-## 🚀 My Skills  
-### Programming Languages  
-- **JavaScript/Node.js**  
-- **Dart/Flutter**  
-- **PHP/MySQL**  
-- **C, C++, C#**
+## 🚀 Tech Stack & Skills
 
-### Web Development  
-- **HTML, CSS, React**
+### Languages  
+- JavaScript / Node.js  
+- Dart / Flutter  
+- PHP / MySQL  
+- C, C++, C#
 
-### Tools & Platforms  
-- **Linux (Arch, Debian, Ubuntu, Kali, Mint)**  
-- **Git/GitHub**
+### Web & UI  
+- React, HTML, CSS  
+- Tailwind, Bootstrap
 
-### Languages 
-- English B2
-- Brazilian Portugues Native
+### DevOps & Tools  
+- Linux (Arch, Debian, Ubuntu, Kali)  
+- Git & GitHub  
+- Docker, Supabase, Firebase  
+- n8n (workflow automation), RESTful APIs
 
 ### Others  
-- Basic Photoshop and Blender  
+- English: B2  
+- Portuguese: Native  
+- Basic Photoshop and GIMP
 
 ---
 
-## ⭐ GitHub Stats  
+## 📊 GitHub Stats
 
 <a href="https://github.com/PewDizinho">
- <img src="https://github-readme-stats.vercel.app/api?username=PewDizinho&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PewDizinho&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/PewDizinho">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PewDizinho&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" width=355px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PewDizinho&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" width=355px/>
 </a>
 
+---
+
+## 🔨 Side Projects
+
+Some of my current open-source or experimental projects:
+
+- [🧓 Elvira](https://github.com/Pews-Cavern/Elvira)  
+  Launcher Android para idosos – acessibilidade digital de verdade. (🇧🇷)
+
+- [🧠 Projeto Integrador: Minecraft JS](https://github.com/Pews-Cavern/Projeto-Integrador-UTP3)  
+  Custom NPC scripting and automation inside Minecraft 1.7.10.
 
 ---
 
-## 🌐 Want to support me?  
+## ☕ Want to support me?
 
-If you want to support my work, feel free to buy me a coffee!  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1BAPMC)  
+If you like what I build or just want to buy me a coffee:
 
----
-
-## 🛠 Projects  
-
-Check out some of my projects:  
-- [Minecraft JavaScript Project](https://github.com/Pews-Cavern/Projeto-Integrador-UTP3)  
-- [Elvira](https://github.com/Pews-Cavern/Elvira)  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1BAPMC)
 
 ---
 
-## 🌎 Português  
+## 🌍 Prefer Portuguese?
 
-Se você prefere ler sobre mim em português, clique [aqui](https://github.com/PewDizinho/PewDizinho/blob/main/README-br.md).  
+Lê melhor em português? Dá uma olhada [nesta versão](https://github.com/PewDizinho/PewDizinho/blob/main/README-br.md).
 
 ---
+
+> The Lord of messy ideas - yet surprisingly functional.
