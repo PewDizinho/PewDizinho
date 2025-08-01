@@ -79,4 +79,4 @@ Lê melhor em português? Dá uma olhada [nesta versão](https://github.com/PewD
 
 ---
 
-> The Lord of messy ideas - yet surprisingly functional.
+> Lord of the Chaotic Yet Surprisingly Functional Ideas
