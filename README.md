@@ -8,7 +8,7 @@ I also study **Systems Analysis and Development** at [Tuiuti University](https:/
 
 > ⚡ **Discord**: `PewDizinho#3014`  
 > 🐦 **Twitter**: [@PewDizinho](https://x.com/PewDizinho)  
-> 🌐 **Portfólio**: [dev.pewdizinho.com](https://pewdizinho.com/portfolio/)  
+> 🌐 **Portfólio**: [pewdizinho.com](https://pewdizinho.com/)  
 > 📧 **Email**: [paulo.konopka@pewdizinho.com](mailto:paulo.konopka@pewdizinho.com)
 
 
