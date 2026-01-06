@@ -1,4 +1,4 @@
-# 💜 Hey, I’m **Pew** - but some know me as Paulo.
+# 💜 Hey, I’m **Paulo** - but some know me as Pew.
 
 I'm a full-stack developer and systems architect building **practical**, **automated**, and **accessible** solutions for real problems.  
 From Discord bots to AI-based support tools, from Flutter apps to system dashboards, I like to work where the duct tape ends and the real system begins.
