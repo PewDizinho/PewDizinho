@@ -3,12 +3,12 @@
 I'm a full-stack developer and systems architect building **practical**, **automated**, and **accessible** solutions for real problems.  
 From Discord bots to AI-based support tools, from Flutter apps to system dashboards, I like to work where the duct tape ends and the real system begins.
 
-Currently leading **[Pew’s Cavern](https://github.com/Pews-Cavern)** - a development company focused on efficiency, accessibility and clever solutions for teams and businesses.  
+Currently leading **[Pew’s Cavern](https://github.com/Pews-Cavern)** - a development company focused on efficiency, accessibility and clever solutions for teams and businesses. I also teach tech mentoring courses in companies, and I work as a Developer at [CELEPAR](https://www.celepar.pr.gov.br/), the information technology company of my state.  
 I also study **Systems Analysis and Development** at [Tuiuti University](https://tuiuti.edu.br/), while constantly prototyping ideas, launching experiments and helping people build things that work.
 
 > ⚡ **Discord**: `PewDizinho#3014`  
 > 🐦 **Twitter**: [@PewDizinho](https://x.com/PewDizinho)  
-> 🌐 **Portfólio**: [pewdizinho.com](https://pewdizinho.com/)  
+> 🌐 **Portfolio**: [pewdizinho.com](https://pewdizinho.com/)  
 > 📧 **Email**: [paulo.konopka@pewdizinho.com](mailto:paulo.konopka@pewdizinho.com)
 
 
@@ -25,12 +25,12 @@ I also study **Systems Analysis and Development** at [Tuiuti University](https:/
 - C, C++, C#
 
 ### Web & UI  
-- React, HTML, CSS  
+- React, VUE, HTML, CSS  
 - Tailwind, Bootstrap
 
 ### DevOps & Tools  
-- Linux (Arch, Debian, Ubuntu, Kali)  
-- Git & GitHub  
+- Linux (Arch, Debian, Ubuntu, Kali, Mint)  
+- Git, GitHub & Gitlab  
 - Docker, Supabase, Firebase  
 - n8n (workflow automation), RESTful APIs
 
