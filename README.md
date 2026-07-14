@@ -2,7 +2,7 @@
 
 I'm a full-stack developer and systems architect building **practical**, **automated**, and **accessible** solutions for real problems. From Discord bots to AI-based support tools, from Flutter apps to system dashboards, I like to work where the duct tape ends and the real system begins.
 
-Currently leading **[Pew’s Cavern](https://github.com/Pews-Cavern)** - a development company focused on efficiency, accessibility, and clever solutions. I also work as a Software Development Intern at **[CELEPAR](https://br.linkedin.com/company/celepartech)** and study **Systems Analysis and Development** at **[Tuiuti University](https://tuiuti.edu.br/)**.
+Currently leading **[Pew’s Cavern](https://github.com/Pews-Cavern)** - a development company focused on efficiency, accessibility, and clever solutions.
 
 ---
 
